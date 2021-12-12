@@ -1,0 +1,2 @@
+# Data-Structures-and-Swing-Components-Project
+This was a Java project that was part of my Undergraduate degree. As part of this project we were tasked with implementing a staff telephone directory that supported a range of operations. These operations had to be implemented with a variety of data structures and then get tested to find the ones that worked the best for each operation. Additionally, the directory also had to have a Graphical User Interface that had to be developed with the use of Swing Components.
